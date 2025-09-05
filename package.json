@@ -1,0 +1,26 @@
+{
+  "name": "@inboundemail/examples",
+  "version": "0.1.0",
+  "description": "Example implementations for Inbound email infrastructure",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inboundemail/inbound-examples.git"
+  },
+  "keywords": [
+    "inbound",
+    "email",
+    "examples",
+    "webhooks",
+    "email-processing"
+  ],
+  "author": "Inbound",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inboundemail/inbound-examples/issues"
+  },
+  "homepage": "https://github.com/inboundemail/inbound-examples#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
