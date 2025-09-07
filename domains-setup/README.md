@@ -15,7 +15,7 @@ This application demonstrates the complete domain setup workflow:
 
 Before running this demo, you'll need:
 
-1. An Inbound Email API account - [Sign up here](https://dashboard.inbound.new)
+1. An Inbound Email API account - [Sign up here](https://inbound.new)
 2. Your Inbound API key from the dashboard
 3. A domain that you control and can modify DNS records for
 
