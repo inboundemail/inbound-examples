@@ -1,0 +1,24 @@
+{
+  "name": "join-inbound",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "bun --watch run index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/express": "^5.0.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^2.0.38",
+    "@vercel/functions": "^3.1.0",
+    "ai": "^5.0.56",
+    "express": "^5.1.0",
+    "inbnd": "^4.2.1",
+    "zod": "^4.1.11"
+  }
+}

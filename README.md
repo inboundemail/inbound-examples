@@ -32,7 +32,7 @@ Each example includes:
 
 ## Documentation
 
-For full documentation, visit [Inbound Documentation](https://inbound.email/docs)
+For full documentation, visit [Inbound Documentation](https://inbound.new/docs)
 
 ## Support
 

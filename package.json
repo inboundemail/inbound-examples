@@ -22,5 +22,11 @@
   "homepage": "https://github.com/inboundemail/inbound-examples#readme",
   "engines": {
     "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@types/node": "^24.3.1",
+    "dotenv": "^17.2.2",
+    "inbnd": "^4.2.1",
+    "resend": "^6.0.3"
   }
 }

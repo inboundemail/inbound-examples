@@ -142,7 +142,7 @@ replies-api/
 - `PORT` - Server port (default: 3000)
 - `NODE_ENV` - Environment mode (development/production)
 - `INBOUND_API_KEY` - Your Inbound API key for SDK integration
-- `INBOUND_BASE_URL` - Inbound API base URL (default: https://api.inbound.email)
+- `INBOUND_BASE_URL` - Inbound API base URL (default: https://inbound.new)
 
 ## Notes
 
