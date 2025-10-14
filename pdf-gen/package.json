@@ -1,0 +1,20 @@
+{
+  "name": "hono",
+  "type": "module",
+  "dependencies": {
+    "hono": "^4.9.12",
+    "inbnd": "^4.3.0"
+  },
+  "scripts": {
+    "dev": "bun run --watch src/index.ts",
+    "build": "tsc",
+    "deploy": "wrangler deploy",
+    "cf:dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "tsx": "^4.7.1",
+    "typescript": "^5.8.3",
+    "wrangler": "^3.78.0"
+  }
+}
